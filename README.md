@@ -1,4 +1,4 @@
-# ffc-messaging
+# adp-messaging
 
 Messaging npm module for FFC services
 
@@ -7,7 +7,7 @@ Messaging npm module for FFC services
 ### Installation
 
 ```
-npm install --save ffc-messaging
+npm install --save adp-messaging
 ```
 
 ### Configuration
