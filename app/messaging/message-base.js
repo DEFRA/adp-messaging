@@ -21,7 +21,7 @@ class MessageBase {
   }
 
   getCredentials () {
-    return new DefaultAzureCredential({ managedIdentityClientId: process.env.USER_ASSIGNED_ID })
+    return new DefaultAzureCredential({ managedIdentityClientId: this.config.managedIdentityClientId })
   }
 
   async closeConnection () {
