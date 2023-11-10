@@ -1,7 +1,7 @@
 {
   "name": "adp-messaging",
   "version": "2.8.0",
-  "description": "Messaging npm module for FFC services",
+  "description": "Messaging npm module for ADP Platform services",
   "main": "index.js",
   "repository": {
     "type": "git",
