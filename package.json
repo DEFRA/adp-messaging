@@ -1,6 +1,6 @@
 {
   "name": "adp-messaging",
-  "version": "2.9.0",
+  "version": "2.10.0",
   "description": "Messaging npm module for ADP Platform services",
   "main": "index.js",
   "repository": {
